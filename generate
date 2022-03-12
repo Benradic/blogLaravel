@@ -1,0 +1,11 @@
+
+                                        
+  Command "ide-helper" is not defined.  
+                                        
+  Did you mean one of these?            
+      ide-helper:eloquent               
+      ide-helper:generate               
+      ide-helper:meta                   
+      ide-helper:models                 
+                                        
+
